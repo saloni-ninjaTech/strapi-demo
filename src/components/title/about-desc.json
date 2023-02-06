@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_title_about_descs",
+  "info": {
+    "displayName": "AboutDesc"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}
